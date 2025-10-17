@@ -31,15 +31,41 @@
 
 ### 3.1 User Interface Testing
 - Ensures all UI elements are displayed correctly and responsive.
+- Tests the UI of the application, focusing on:
+  - UI element check, alignment check, error message readability.
+  - Resolution, font, image, spelling, and overall attractiveness.
+  - Scrollbar and hyperlink color consistency.
+- **GUI Testing Checklist** should be prepared.
+- Must refer to the **UI Specification Document (UI Spec)**.
+  - The UI Spec contains **wireframes (dummy screens)** used for reference.
 
 ### 3.2 Functional Testing
 - Verifies that each feature or workflow behaves as intended.
 
+**Sub-Tests**
+- **Object Properties Testing:**  
+  Check properties such as placeholder text, enabled/disabled state, target="_blank", visibility, and focus.
+- **Database Testing:**  
+  Validate backend operations (DML – Data Manipulation Language): `INSERT`, `UPDATE`, `DELETE`, `SELECT`.
+- **Error Handling Testing:**  
+  Error messages must be simple, clear, and easily understandable.
+- **Calculations/Manipulations Testing:**  
+  Verify mathematical logic, e.g., interest, bonus, withdrawal amounts.
+- **Links Testing:**
+  - *Internal links:* navigation within the same page.
+  - *External links:* navigation to a different page within the same application.
+  - *Broken links:* invalid or missing targets (e.g., “Page Not Found”).
+- **Cookies & Sessions Testing:**
+  - *Cookies:* Temporary browser-side files created during browsing; auto-fill login or form data.
+  - *Sessions:* Server-side time slots that expire after inactivity (e.g., auto-logout after several minutes).
+  - Relation: **Cookies = Browser side, Sessions = Server side.**
 ### 3.3 Non-Functional Testing
 - Evaluates performance, load, stress, reliability, and security.
 
 ### 3.4 Usability Testing
 - Checks user-friendliness, clarity, and accessibility for end users.
+- Evaluates overall **easiness of the application** setup and use.
+- Ensures **help documents or user manuals** are readable and context-sensitive (e.g., tooltip help).
 
 ---
 
