@@ -13,8 +13,8 @@ Organized for study and integration into a QA/Automation portfolio.
 - [Software Testing Basics](./fundamentals/02_Software_Testing_Basics.md)
 - [Software Classification](./fundamentals/03_Software_Classification.md)
 - [Bugs and Errors](./fundamentals/04_Bugs_and_Errors.md)
-- [QA vs QC vs QE](./fundamentals/07_QA_QC_QE.md)
-- [Testing Methods](./fundamentals/08_Testing_Methods.md)
+- [QA vs QC vs QE](./fundamentals/05_QA_QC_QE.md)
+- [Testing Methods](./fundamentals/06_Testing_Methods.md)
 
 ### ⚙️ SDLC & V-Model
 - [SDLC Models](./sdlc_models/01_SDLC_Models.md)
