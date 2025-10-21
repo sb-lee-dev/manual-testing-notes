@@ -9,10 +9,10 @@ Organized for study and integration into a QA/Automation portfolio.
 ## 📚 Table of Contents
 
 ### 🧱 Fundamentals
-- [Fundamentals](./fundamentals)
+- [Software Testing Fundamentals](./fundamentals)
 
 ### ⚙️ SDLC Models
 - [SDLC Models](./sdlc_models)
 
 ### 🔍 STLC
-- [STLC](./stlc_fundamentals)
+- [STLC Fundamentals](./stlc_fundamentals)
