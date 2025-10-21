@@ -13,4 +13,4 @@ It’s the foundation of all testing activities.
 5. [QA vs QC vs QE](./05_QA_QC_QE.md)
 6. [Testing Methods](./06_Testing_Methods.md)
 7. [Testing Terminology](./07_Testing_Terminology.md)
-8. [Software Testing Techniques](./08_Software_Testing_techniques.md)
+8. [Software Testing Techniques](./08_Software_Testing_Techniques.md)
