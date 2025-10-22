@@ -16,3 +16,8 @@ Organized for study and integration into a QA/Automation portfolio.
 
 ### 🔍 STLC
 - [STLC Fundamentals](./stlc_fundamentals)
+
+
+## 🧩 References
+- Course: *"Learn Manual Software Testing + Agile with Jira Tool"*  
+  by Pavan Kumar, [Udemy](https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/?couponCode=MT251022G1)
